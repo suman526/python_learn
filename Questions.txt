@@ -1,0 +1,45 @@
+1. Write a program to display the last digit of a number.
+2. Write a program to check whether the last digit of a number( entered by user ) is 
+divisible by 3 or not.
+3. Write a program to calculate the electricity bill (accept number of unit from user) according to the following criteria :
+             Unit                                                     Price  
+First 100 units                                               no charge
+Next 100 units                                              Rs 5 per unit
+After 200 units                                             Rs 10 per unit
+4. Write a program to accept the cost price of a bike and display the road tax to be paid according to the following criteria :
+    
+        Cost price (in Rs)                                       Tax
+        > 100000                                                  15 %
+        > 50000 and <= 100000                          10%
+        <= 50000                                                  5%
+5.Accept any city from the user and display monument of that city.
+                  City                                 Monument
+                  Delhi                               Red Fort
+                  Agra                                Taj Mahal
+                  Jaipur                              Jal Mahal
+6.Write the output of the following if a = 9
+        
+    if (a > 5 and a <=10):    
+         print("Hello")    
+    else:    
+        print("Bye")
+7.Write a program to check whether a number (accepted from user) is positive or negative.
+8.Write a program to whether a number (accepted from user) is divisible by 2 and 3 both.
+9.A company decided to give bonus to employee according to following criteria:
+
+    Time period of Service                Bonus
+
+    More than 10 years             10%
+
+    >=6 and <=10                   8%
+
+    Less than 6 years              5%
+
+    Ask user for their salary and years of service and print the net bonus amount.
+
+10.Accept the marked price from the user and  calculate the Net amount as(Marked Price –    Discount) to pay according to following criteria:
+
+Marked Price	        Discount
+>10000			20%
+>7000 and <=10000	15%
+<=7000			10%
